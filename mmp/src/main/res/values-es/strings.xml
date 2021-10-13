@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_mmp_android_close">Cerrar</string>
+    <string name="com_mmp_android_done">Hecho</string>
+    <string name="com_mmp_android_notification_image">Imagen no mostrada</string>
+</resources>
